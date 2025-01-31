@@ -19,8 +19,17 @@ This project addresses booking cancellations at City Hotel and Resort Hotel, ana
 
 ## Tools Used
 - Python Libraries: Pandas, Scikit-learn, Seaborn, Streamlit.
-- Repository: [GitHub Link](#)
-- Dashboard: [Streamlit App Link](#)
+
+## Resources
+
+- **Dashboard**: 
+  <a href="https://hotel-cancellation-analytics-ifofzraqrfkdr7nfvs9vvc.streamlit.app/" target="_blank">Link</a>
+
+- **Data Source**: 
+  <a href="https://www.kaggle.com/datasets/mojtaba142/hotel-booking" target="_blank">Link</a>
+  
+- **Tutorial**: 
+  <a href="http://127.0.0.1:5500/uploads/Videos/Hotel.mp4" target="_blank">Link</a>
 
 ## Future Work
 - Real-time A/B testing of strategies.
