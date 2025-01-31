@@ -17,6 +17,9 @@ This project addresses booking cancellations at City Hotel and Resort Hotel, ana
 - Lead time and non-refundable deposits are pivotal predictors.
 - Guests with ≥2 special requests are 30% less likely to cancel.
 
+Enhanced Hotel Bookings csv <a href="https://drive.google.com/file/d/1SRNnbag6_eOmxjUZsDl4yJ7qRsb7mcOe/view?usp=sharing">Link</a>
+ , since it too big to upload
+
 ## Tools Used
 - Python Libraries: Pandas, Scikit-learn, Seaborn, Streamlit.
 
