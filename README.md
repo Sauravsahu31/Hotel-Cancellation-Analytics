@@ -32,7 +32,7 @@ Enhanced Hotel Bookings csv <a href="https://drive.google.com/file/d/1SRNnbag6_e
   <a href="https://www.kaggle.com/datasets/mojtaba142/hotel-booking" target="_blank">Link</a>
   
 - **Tutorial**: 
-  <a href="http://127.0.0.1:5500/uploads/Videos/Hotel.mp4" target="_blank">Link</a>
+  <a href="https://drive.google.com/file/d/1ASf0hK-KAmSyM-vp4CWVUPQdUSs3j_qu/view?usp=sharing">Link</a>
 
 ## Future Work
 - Real-time A/B testing of strategies.
